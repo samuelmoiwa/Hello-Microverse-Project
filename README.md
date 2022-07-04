@@ -30,4 +30,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [Personal] licensed.
+This project is [https://github.com/samuelmoiwa/Hello-Microverse-Project/blob/hello-microverse/license.txt] licensed.
