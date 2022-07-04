@@ -28,6 +28,11 @@ Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
+
+Thanks to microverseinc for the linters config files.
+https://github.com/microverseinc/linters-config
+
 ## 📝 License
 
 This project is [https://github.com/samuelmoiwa/Hello-Microverse-Project/blob/hello-microverse/license.txt] licensed.
