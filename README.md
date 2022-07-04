@@ -1,5 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+# Getting Started
+
+please get your browser update. To get a local copy up and running follow these simple steps.
+
+Run the command below from the terminal
+
+*git clone in your terminal
+*cd hello-micriverse
+*start index.html
+
 # Hello Microverse
 
 > Description the project.
